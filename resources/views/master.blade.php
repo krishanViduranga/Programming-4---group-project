@@ -27,7 +27,7 @@
 <body>
 
     @include('shared.navbar')    
-
+    @yield('section')
     @include('shared.footer')
     
     <script src="js/jquery.js"></script>
