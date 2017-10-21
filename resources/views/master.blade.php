@@ -27,8 +27,23 @@
 <body>
 
     @include('shared.navbar')    
-
+    @yield('section')
     @include('shared.footer')
+
+    <!-- Firebase Scripts -->
+    <script src="https://www.gstatic.com/firebasejs/4.5.2/firebase.js"></script>
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyCNP1OoHTBD7gDKV6sYc31SBO_-2P-Flj0",
+        authDomain: "laravelproject-c7997.firebaseapp.com",
+        databaseURL: "https://laravelproject-c7997.firebaseio.com",
+        projectId: "laravelproject-c7997",
+        storageBucket: "laravelproject-c7997.appspot.com",
+        messagingSenderId: "261699437735"
+      };
+      firebase.initializeApp(config);
+    </script>
     
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
@@ -38,3 +53,4 @@
     <script src="js/main.js"></script>
 
 </body>
+</html>
