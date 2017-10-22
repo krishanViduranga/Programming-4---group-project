@@ -11,6 +11,10 @@
 |
 */
 
-Route::get('/', function () {
-    return view('shop');
-});
+Route::get('/', 'PagesController@init');
+
+Route::get('home', 'PagesController@init');
+
+Route::get('login', 'PagesController@login');
+
+Route::get('404', 'PagesController@notFound');
