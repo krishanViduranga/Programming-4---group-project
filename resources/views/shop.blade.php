@@ -1,5 +1,5 @@
 @extends('master')
-@section('title', 'sparemart')
+@section('title', 'sparemart')<!--dgdwhe-->
 @section('section')
 	<div class="container">
 			<div class="row">
