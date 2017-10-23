@@ -18,3 +18,11 @@ Route::get('home', 'PagesController@init');
 Route::get('login', 'PagesController@login');
 
 Route::get('404', 'PagesController@notFound');
+
+Route::get('login', 'PagesController@login');
+
+Route::get('contact', 'PagesController@contact');
+
+Route::get('cart', 'PagesController@cart');
+
+Route::get('checkout', 'PagesController@checkout');

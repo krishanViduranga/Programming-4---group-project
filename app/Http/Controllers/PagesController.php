@@ -18,4 +18,16 @@ class PagesController extends Controller
     public function notFound(){
     	return view('shared.404');
     }
+
+    public function contact(){
+    	return view('shared.contact');
+    }
+
+    public function cart(){
+    	return view('cart');
+    }
+
+    public function checkout(){
+    	return view('checkout');
+    }
 }
