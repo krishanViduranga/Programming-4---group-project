@@ -8,9 +8,8 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background:;
   position: relative;
-  font-weight:400px;
+  font-weight:400;
 }
 
 ul li {
@@ -899,7 +898,7 @@ h2.title {
   transition: height 500ms ease 0s;
   width: 100%;
   display: block;
-  opacity:;
+
 }
 
 .single-products:hover .product-overlay {
@@ -2141,7 +2140,7 @@ h2.title {
 
 .rating-area {
   border: 1px solid #F7F7F0;
-  direction: block;
+
   overflow: hidden;
 }
 
@@ -2520,4 +2519,25 @@ h2.title {
   color: #FE980F;
 }
 
+/*12qs*/
 
+#slider{
+  width: 100%;
+  margin: 0 auto;
+
+}
+.sub_slider{
+  width: 100%;
+  margin: 10px  auto;
+}
+.bx-wrapper {
+  background: #eeeeee;
+  margin-top: -5px;
+  -moz-box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+}
+
+.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {
+  bottom: 30px;
+}
