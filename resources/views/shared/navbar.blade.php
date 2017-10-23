@@ -1,15 +1,8 @@
 <header id="header"><!--header-->
-	<div class="header_top"><!--header_top-->
-			<div class="container">
+	<!-- <div class="header_top"><!--header_top-->
+			<!-- <div class="container">
 				<div class="row">
-					<div class="col-sm-6">
-						<div class="contactinfo">
-							<ul class="nav nav-pills">
-								<li><a href="#"><i class="fa fa-phone"></i> +2 95 01 88 821</a></li>
-								<li><a href="#"><i class="fa fa-envelope"></i> info@domain.com</a></li>
-							</ul>
-						</div>
-					</div>
+					
 					<div class="col-sm-6">
 						<div class="social-icons pull-right">
 							<ul class="nav navbar-nav">
@@ -22,8 +15,8 @@
 						</div>
 					</div>
 				</div>
-			</div>
-	</div><!--/header_top-->
+			</div> -->
+	<!-- </div --><!--/header_top--> 
 
 	<div class="header-middle"><!--header-middle-->
 			<div class="container">
@@ -32,29 +25,7 @@
 						<div class="logo pull-left">
 							<a href="index.html"><img src="/images/home/logo.png" alt="" /></a>
 						</div>
-						<div class="btn-group pull-right">
-							<div class="btn-group">
-								<button type="button" class="btn btn-default dropdown-toggle usa" data-toggle="dropdown">
-									USA
-									<span class="caret"></span>
-								</button>
-								<ul class="dropdown-menu">
-									<li><a href="#">Canada</a></li>
-									<li><a href="#">UK</a></li>
-								</ul>
-							</div>
-							
-							<div class="btn-group">
-								<button type="button" class="btn btn-default dropdown-toggle usa" data-toggle="dropdown">
-									DOLLAR
-									<span class="caret"></span>
-								</button>
-								<ul class="dropdown-menu">
-									<li><a href="#">Canadian Dollar</a></li>
-									<li><a href="#">Pound</a></li>
-								</ul>
-							</div>
-						</div>
+						
 					</div>
 					<div class="col-sm-8">
 						<div class="shop-menu pull-right">
@@ -75,7 +46,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-9">
-						<div class="navbar-header">
+						<!-- <div class="navbar-header">
 							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 								<span class="sr-only">Toggle navigation</span>
 								<span class="icon-bar"></span>
@@ -104,13 +75,41 @@
 								<li><a href="404.html">404</a></li>
 								<li><a href="contact-us.html">Contact</a></li>
 							</ul>
-						</div>
+						</div> -->
 					</div>
-					<div class="col-sm-3">
+					<!-- >>>>up content about the left side above part of the serchbar -->
+					<!-- <div class="col-sm-3">
 						<div class="search_box pull-right">
 							<input type="text" placeholder="Search"/>
 						</div>
+					</div> -->
+					<div class="container">
+					    <div class="row">    
+					        <div class="col-xs-8 col-xs-offset-2">
+							    <div class="input-group">
+					                <div class="input-group-btn search-panel">
+					                    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+					                    	<span id="search_concept">Filter by</span> <span class="caret"></span>
+					                    </button>
+					                    <ul class="dropdown-menu" role="menu">
+					                      <li><a href="#contains">Contains</a></li>
+					                      <li><a href="#its_equal">It's equal</a></li>
+					                      <li><a href="#greather_than">Greather than ></a></li>
+					                      <li><a href="#less_than">Less than < </a></li>
+					                      <li class="divider"></li>
+					                      <li><a href="#all">Anything</a></li>
+					                    </ul>
+					                </div>
+					                <input type="hidden" name="search_param" value="all" id="search_param">         
+					                <input type="text" class="form-control" name="x" placeholder="Search term...">
+					                <span class="input-group-btn">
+					                    <button class="btn btn-default" type="button"><span class="glyphicon glyphicon-search"></span></button>
+					                </span>
+					            </div>
+					        </div>
+						</div>
 					</div>
+
 				</div>
 			</div>
 	</div><!--/header-bottom-->
