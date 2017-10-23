@@ -144,6 +144,17 @@
 				</div>
 				
 				<div class="col-sm-9 padding-right">
+					<!--Start of slider-->
+					<div id="slider">
+						<div class="sub_slider">
+							<ul class="bxslider">
+								<li><img src="images/blog/blog-one.jpg"></li>
+								<li><img src="images/blog/blog-two.jpg"></li>
+								<li><img src="images/blog/blog-three.jpg"></li>
+							</ul>
+						</div>
+					</div>
+					<!--end of slider-->
 					<div class="features_items"><!--features_items-->
 						<h2 class="title text-center">Features Items</h2>
 						<div class="col-sm-4">

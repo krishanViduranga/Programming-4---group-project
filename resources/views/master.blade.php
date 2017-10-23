@@ -15,6 +15,8 @@
     <link href="/css/animate.css" rel="stylesheet">
 	<link href="/css/main.css" rel="stylesheet">
 	<link href="/css/responsive.css" rel="stylesheet">
+    <link type="text/css" href="/css/jquery.bxslider.min.css" rel="stylesheet" >
+
     <!--[if lt IE 9]>
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script>
@@ -28,22 +30,23 @@
     @yield('section')
     @include('shared.footer')
 
-    <!-- Firebase Scripts -->
-    <script src="https://www.gstatic.com/firebasejs/4.5.2/firebase.js"></script>
-    <script>
-      // Initialize Firebase
-      var config = {
-        apiKey: "AIzaSyCNP1OoHTBD7gDKV6sYc31SBO_-2P-Flj0",
-        authDomain: "laravelproject-c7997.firebaseapp.com",
-        databaseURL: "https://laravelproject-c7997.firebaseio.com",
-        projectId: "laravelproject-c7997",
-        storageBucket: "laravelproject-c7997.appspot.com",
-        messagingSenderId: "261699437735"
-      };
-      firebase.initializeApp(config);
+
+    <script
+            src="https://code.jquery.com/jquery-2.2.4.js"
+            integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI="
+            crossorigin="anonymous"></script>
+    <script type="text/javascript" src="/js/jquery.bxslider.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function (e) {
+            $('.bxslider').bxSlider({
+                mode: 'horizontal',
+                auto: true,
+            });
+        });
+
     </script>
-    
-    <script src="js/jquery.js"></script>
+    {{--<script type="text/javascript" src="{{ URL::asset('js/jquery.js') }}"></script>--}}
+    {{--<script src="js/jquery.js"></script>--}}
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.scrollUp.min.js"></script>
     <script src="js/price-range.js"></script>
