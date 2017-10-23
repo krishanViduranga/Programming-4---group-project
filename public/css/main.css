@@ -2519,4 +2519,25 @@ h2.title {
   color: #FE980F;
 }
 
+/*12qs*/
 
+#slider{
+  width: 100%;
+  margin: 0 auto;
+
+}
+.sub_slider{
+  width: 100%;
+  margin: 10px  auto;
+}
+.bx-wrapper {
+  background: #eeeeee;
+  margin-top: -5px;
+  -moz-box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+}
+
+.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {
+  bottom: 30px;
+}
