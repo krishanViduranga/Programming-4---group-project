@@ -148,9 +148,9 @@
 					<div id="slider">
 						<div class="sub_slider">
 							<ul class="bxslider">
-								<li><img src="images/blog/blog-one.jpg"></li>
-								<li><img src="images/blog/blog-two.jpg"></li>
-								<li><img src="images/blog/blog-three.jpg"></li>
+								<li><img src="images/blog/b1.jpg"></li>
+								<li><img src="images/blog/b3.jpg"></li>
+								<li><img src="images/blog/b2.jpg"></li>
 							</ul>
 						</div>
 					</div>
