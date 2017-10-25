@@ -5,7 +5,8 @@
 					<div class="col-sm-2">
 						<div class="companyinfo">
 							<h2><span style="color: red">SPARE</span>MART</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,sed do eiusmod tempor</p>
+							<p>Best Parts with
+								 Best Rates</p>
 						</div>
 					</div>
 					<div class="col-sm-7">
@@ -13,14 +14,14 @@
 							<div class="video-gallery text-center">
 								<a href="#">
 									<div class="iframe-img">
-										<img src="images/home/iframe1.png" alt="" />
+										<img src="images/home/iframe1.jpg" alt="" />
 									</div>
 									<div class="overlay-icon">
 										<i class="fa fa-play-circle-o"></i>
 									</div>
 								</a>
-								<p>Circle of Hands</p>
-								<h2>24 DEC 2014</h2>
+								<p>TOYOTA 4RUNNER BLACK
+								 HALO PROJECTOR...</p>
 							</div>
 						</div>
 						
@@ -28,14 +29,14 @@
 							<div class="video-gallery text-center">
 								<a href="#">
 									<div class="iframe-img">
-										<img src="images/home/iframe2.png" alt="" />
+										<img src="images/home/iframe2.jpg" alt="" />
 									</div>
 									<div class="overlay-icon">
 										<i class="fa fa-play-circle-o"></i>
 									</div>
 								</a>
-								<p>Circle of Hands</p>
-								<h2>24 DEC 2014</h2>
+								<p>DORMAN 615-178 INTAKE 
+								MANIFOLD - PLASTIC,...</p>
 							</div>
 						</div>
 						
@@ -43,14 +44,14 @@
 							<div class="video-gallery text-center">
 								<a href="#">
 									<div class="iframe-img">
-										<img src="images/home/iframe3.png" alt="" />
+										<img src="images/home/iframe3.jpg" alt="" />
 									</div>
 									<div class="overlay-icon">
 										<i class="fa fa-play-circle-o"></i>
 									</div>
 								</a>
-								<p>Circle of Hands</p>
-								<h2>24 DEC 2014</h2>
+								<p>INJEN – UNIVERSAL 
+								HIGH PERFORMANCE AIR...</p>
 							</div>
 						</div>
 						
@@ -58,21 +59,21 @@
 							<div class="video-gallery text-center">
 								<a href="#">
 									<div class="iframe-img">
-										<img src="images/home/iframe4.png" alt="" />
+										<img src="images/home/iframe4.jpg" alt="" />
 									</div>
 									<div class="overlay-icon">
 										<i class="fa fa-play-circle-o"></i>
 									</div>
 								</a>
-								<p>Circle of Hands</p>
-								<h2>24 DEC 2014</h2>
+								<p>CHEVY SILVERADO LS LT
+									 TAHOE LS LT BUMPER...</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-sm-3">
 						<div class="address">
 							<img src="images/home/map.png" alt="" />
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,sed do eiusmod tempor</p>
+							<p>No 1 Sparepart Dealers In The World....  </p>
 						</div>
 					</div>
 				</div>
@@ -84,24 +85,30 @@
 				<div class="row">
 					<div class="col-sm-2">
 						<div class="single-widget">
-							<h2>Service</h2>
+							<h2>CATEGORIES</h2>
 							<ul class="nav nav-pills nav-stacked">
-								<li><a href="#">Online Help</a></li>
-								<li><a href="#">Contact Us</a></li>
-								<li><a href="#">Order Status</a></li>								
-								<li><a href="#">FAQ’s</a></li>
+								<li><a href="#">EXHASTIVE TIPS</a></li>
+								<li><a href="#">GRILLES & COMPONENTS</a></li>
+								<li><a href="#">CALIPERS</a></li>								
+								<li><a href="#">CAR COVERS</a></li>
+								<li><a href="#">CARPET KITS</a></li>
+								<li><a href="#">COMPONENTS</a></li>
 							</ul>
+							
+
 						</div>
 					</div>
 					<div class="col-sm-2">
 						<div class="single-widget">
-							<h2>Quock Shop</h2>
+							<h2>INFORMATION</h2>
 							<ul class="nav nav-pills nav-stacked">
-								<li><a href="#">T-Shirt</a></li>
-								<li><a href="#">Mens</a></li>
-								<li><a href="#">Womens</a></li>
-								<li><a href="#">Gift Cards</a></li>
-								<li><a href="#">Shoes</a></li>
+								<li><a href="#">SPECIALS</a></li>
+								<li><a href="#">NEW PRODUCT</a></li>
+								<li><a href="#">TOP SELLERS</a></li>
+								<li><a href="#">OUR STORES</a></li>
+								<li><a href="#">CONTACT US</a></li>
+								<li><a href="#">PAGES CONFIGURATION</a></li>
+								<li><a href="#">SITEMAP</a></li>
 							</ul>
 						</div>
 					</div>
@@ -119,19 +126,22 @@
 					</div>
 					<div class="col-sm-2">
 						<div class="single-widget">
-							<h2>About Sparemart</h2>
+							<h2>MY ACCOUNT</h2>
 							<ul class="nav nav-pills nav-stacked">
-								<li><a href="#">Company Information</a></li>
-								<li><a href="#">Careers</a></li>
-								<li><a href="#">Store Location</a></li>
-								<li><a href="#">Affillate Program</a></li>
-								<li><a href="#">Copyright</a></li>
+								<li><a href="#">MY ORDERS</a></li>
+								<li><a href="#">MY MERCHANDISE RETURNS</a></li>
+								<li><a href="#">MY CREDIT SLIPS</a></li>
+								<li><a href="#">MY ADDRESSES</a></li>
+								<li><a href="#">MY PERSONAL INFO</a></li>
+								<li><a href="#">MY VOUCHERS</a></li>
 							</ul>
 						</div>
 					</div>
 					<div class="col-sm-3 col-sm-offset-1">
 						<div class="single-widget">
-							<h2>About Sparemart</h2>
+							<h2>STORE INFORMATION</h2>
+
+
 							<form action="#" class="searchform">
 								<input type="text" placeholder="Your email address" />
 								<button type="submit" class="btn btn-default"><i class="fa fa-arrow-circle-o-right"></i></button>
