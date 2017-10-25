@@ -12,7 +12,7 @@
 									<h4 class="panel-title">
 										<a data-toggle="collapse" data-parent="#accordian" href="#sportswear">
 											<span class="badge pull-right"><i class="fa fa-plus"></i></span>
-											Sportswear
+											Exhaust Tips
 										</a>
 									</h4>
 								</div>
@@ -33,7 +33,7 @@
 									<h4 class="panel-title">
 										<a data-toggle="collapse" data-parent="#accordian" href="#mens">
 											<span class="badge pull-right"><i class="fa fa-plus"></i></span>
-											Mens
+											Bumpers And Components
 										</a>
 									</h4>
 								</div>
@@ -60,7 +60,7 @@
 									<h4 class="panel-title">
 										<a data-toggle="collapse" data-parent="#accordian" href="#womens">
 											<span class="badge pull-right"><i class="fa fa-plus"></i></span>
-											Womens
+											Grills And Components
 										</a>
 									</h4>
 								</div>
@@ -78,37 +78,37 @@
 							</div>
 							<div class="panel panel-default">
 								<div class="panel-heading">
-									<h4 class="panel-title"><a href="#">Kids</a></h4>
+									<h4 class="panel-title"><a href="#">Brake Discs</a></h4>
 								</div>
 							</div>
 							<div class="panel panel-default">
 								<div class="panel-heading">
-									<h4 class="panel-title"><a href="#">Fashion</a></h4>
+									<h4 class="panel-title"><a href="#">Clipers</a></h4>
 								</div>
 							</div>
 							<div class="panel panel-default">
 								<div class="panel-heading">
-									<h4 class="panel-title"><a href="#">Households</a></h4>
+									<h4 class="panel-title"><a href="#">Shocks,Structs</a></h4>
 								</div>
 							</div>
 							<div class="panel panel-default">
 								<div class="panel-heading">
-									<h4 class="panel-title"><a href="#">Interiors</a></h4>
+									<h4 class="panel-title"><a href="#">Car Covers</a></h4>
 								</div>
 							</div>
 							<div class="panel panel-default">
 								<div class="panel-heading">
-									<h4 class="panel-title"><a href="#">Clothing</a></h4>
+									<h4 class="panel-title"><a href="#">Seat,Seat Covers</a></h4>
 								</div>
 							</div>
 							<div class="panel panel-default">
 								<div class="panel-heading">
-									<h4 class="panel-title"><a href="#">Bags</a></h4>
+									<h4 class="panel-title"><a href="#">Carpet Kits</a></h4>
 								</div>
 							</div>
 							<div class="panel panel-default">
 								<div class="panel-heading">
-									<h4 class="panel-title"><a href="#">Shoes</a></h4>
+									<h4 class="panel-title"><a href="#">Floor Mats And Liners</a></h4>
 								</div>
 							</div>
 						</div><!--/category-products-->
