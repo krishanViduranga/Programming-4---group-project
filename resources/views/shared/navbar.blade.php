@@ -30,11 +30,21 @@
 					<div class="col-sm-8">
 						<div class="shop-menu pull-right">
 							<ul class="nav navbar-nav">
-								<li><a href="#"><i class="fa fa-user"></i> Account</a></li>
-								<li><a href="#"><i class="fa fa-star"></i> Wishlist</a></li>
-								<li><a href="{{ url('/checkout') }}"><i class="fa fa-crosshairs"></i> Checkout</a></li>
-								<li><a href="{{ url('cart') }}"><i class="fa fa-shopping-cart"></i> Cart</a></li>
-								<li><a href="{{ url('login') }}"><i class="fa fa-lock"></i> Login</a></li>
+								@if(Auth::check())
+									<li><a href="#"><i class="fa fa-user"></i>{{{ Auth::user()->name }}}</a></li>
+									<li><a href="#"><i class="fa fa-star"></i> Wishlist</a></li>
+									<li><a href="{{ url('/checkout') }}"><i class="fa fa-crosshairs"></i> Checkout</a></li>
+									<li><a href="{{ url('cart') }}"><i class="fa fa-shopping-cart"></i> Cart</a></li>
+									<li><a href="{{ route('logout') }}" onclick="event.preventDefault();
+                                                     document.getElementById('logout-form').submit();"><i class="fa fa-sign-out"></i> Signout</a></li>
+                                    <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                                           {{ csrf_field() }}
+                                    </form>
+								@endif
+								@if(Auth::guest())
+									<li><a href="{{ url('login') }}"><i class="fa fa-lock"></i> Login</a></li>
+								@endif
+
 							</ul>
 						</div>
 					</div>
