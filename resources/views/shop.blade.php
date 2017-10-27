@@ -171,6 +171,8 @@
 												<h2>$56</h2>
 												<p>Easy Polo Black Edition</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+												<iframe name="iframe1" width="230" height="175" src="http://www.tracepartsonline.net/global/viewer.aspx?xmp=-1-59-a6-01-8.xmp&previewCad=a6-01-8&displaymode=small&activatecamera=false&displayviewicons=false&displaymovementicons=false" frameborder="1" allowfullscreen></iframe>
+												<a class="fadebutton" href="http://www.tracepartsonline.net/global/viewer.aspx?xmp=-1-59-a6-01-8.xmp&previewCad=a6-01-8&displaymode=small&activatecamera=false&displayviewicons=false&displaymovementicons=false" target="iframe1" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>View</a>
 											</div>
 										</div>
 								</div>
@@ -194,7 +196,7 @@
 									<div class="product-overlay">
 										<div class="overlay-content">
 											<h2>$56</h2>
-											<p>Easy Polo Black Edition</p>
+											<p>Easy Polo Black Edition</p>											
 											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
@@ -270,8 +272,11 @@
 									<div class="product-overlay">
 										<div class="overlay-content">
 											<h2>$56</h2>
-											<p>Easy Polo Black Edition</p>
-											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<p>Easy Polo Black Edition</p>											
+											<a href="#"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<iframe name="iframe5" width="230" height="175" src="http://www.tracepartsonline.net/global/viewer.aspx?xmp=-1-59-inafag_1004_b4f3gp9l23gf4yg4ksfbwt28z.xmp&previewCad=inafag_1004_b4f3gp9l23gf4yg4ksfbwt28z&displaymode=small&activatecamera=false&displayviewicons=false&displaymovementicons=false" frameborder="1" allowfullscreen></iframe>
+											<a class="fadebutton" href="http://www.tracepartsonline.net/global/viewer.aspx?xmp=-1-59-inafag_1004_b4f3gp9l23gf4yg4ksfbwt28z.xmp&previewCad=inafag_1004_b4f3gp9l23gf4yg4ksfbwt28z&displaymode=small&activatecamera=false&displayviewicons=false&displaymovementicons=false" target="iframe1" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>View</a>
+
 										</div>
 									</div>
 									<img src="images/home/sale.png" class="new" alt="" />

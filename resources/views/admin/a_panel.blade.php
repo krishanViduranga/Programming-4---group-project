@@ -1,0 +1,1 @@
+@extends('admin.a_master')
