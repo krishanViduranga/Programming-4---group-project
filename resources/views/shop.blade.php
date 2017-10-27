@@ -275,8 +275,7 @@
 											<p>Easy Polo Black Edition</p>											
 											<a href="#"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											<iframe name="iframe5" width="230" height="175" src="http://www.tracepartsonline.net/global/viewer.aspx?xmp=-1-59-inafag_1004_b4f3gp9l23gf4yg4ksfbwt28z.xmp&previewCad=inafag_1004_b4f3gp9l23gf4yg4ksfbwt28z&displaymode=small&activatecamera=false&displayviewicons=false&displaymovementicons=false" frameborder="1" allowfullscreen></iframe>
-											<a class="fadebutton" href="http://www.tracepartsonline.net/global/viewer.aspx?xmp=-1-59-inafag_1004_b4f3gp9l23gf4yg4ksfbwt28z.xmp&previewCad=inafag_1004_b4f3gp9l23gf4yg4ksfbwt28z&displaymode=small&activatecamera=false&displayviewicons=false&displaymovementicons=false" target="iframe1" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>View</a>
-
+											<a class="fadebutton" href="http://www.tracepartsonline.net/global/viewer.aspx?xmp=-1-59-inafag_1004_b4f3gp9l23gf4yg4ksfbwt28z.xmp&previewCad=inafag_1004_b4f3gp9l23gf4yg4ksfbwt28z&displaymode=small&activatecamera=false&displayviewicons=false&displaymovementicons=false" target="iframe1" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>View</a>											
 										</div>
 									</div>
 									<img src="images/home/sale.png" class="new" alt="" />
@@ -303,6 +302,8 @@
 											<h2>$56</h2>
 											<p>Easy Polo Black Edition</p>
 											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<iframe width="230" height="175" src="#" ></iframe>
+											<a class="fadebutton" target="iframe1" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>View</a>
 										</div>
 									</div>
 								</div>
