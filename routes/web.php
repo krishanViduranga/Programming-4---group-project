@@ -23,6 +23,10 @@ Route::get('cart', 'PagesController@cart');
 
 Route::get('checkout', 'PagesController@checkout');
 
+Route::get('admin', function(){
+	return view('admin.a_auth.login');
+});
+
 Auth::routes(); //Routes : login + register
 
 Route::get('/home', 'HomeController@index')->name('home');
