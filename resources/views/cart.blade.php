@@ -24,11 +24,11 @@
 					<tbody>
 						<tr>
 							<td class="cart_product">
-								<a href=""><img src="images/cart/one.png" alt=""></a>
+								<a href=""><img src="images/cart/one.jpg" alt=""></a>
 							</td>
 							<td class="cart_description">
-								<h4><a href="">Colorblock Scuba</a></h4>
-								<p>Web ID: 1089772</p>
+								<h4><a href="">...TOYOTA 4RUNNER BLACK HALO PROJECTOR...</a></h4>
+								<p>...Web ID: 1089772</p>
 							</td>
 							<td class="cart_price">
 								<p>$59</p>
@@ -50,11 +50,11 @@
 
 						<tr>
 							<td class="cart_product">
-								<a href=""><img src="images/cart/two.png" alt=""></a>
+								<a href=""><img src="images/cart/two.jpg" alt=""></a>
 							</td>
 							<td class="cart_description">
-								<h4><a href="">Colorblock Scuba</a></h4>
-								<p>Web ID: 1089772</p>
+								<h4><a href="">...YAMAHA A12B BREAK SYSTEM</a></h4>
+								<p>...Web ID: 1089772</p>
 							</td>
 							<td class="cart_price">
 								<p>$59</p>
@@ -75,11 +75,11 @@
 						</tr>
 						<tr>
 							<td class="cart_product">
-								<a href=""><img src="images/cart/three.png" alt=""></a>
+								<a href=""><img src="images/cart/three.jpg" alt=""></a>
 							</td>
 							<td class="cart_description">
-								<h4><a href="">Colorblock Scuba</a></h4>
-								<p>Web ID: 1089772</p>
+								<h4><a href="">...YAMAHA 232B SUSPENSION SYSTEM</a></h4>
+								<p>...Web ID: 1089772</p>
 							</td>
 							<td class="cart_price">
 								<p>$59</p>
