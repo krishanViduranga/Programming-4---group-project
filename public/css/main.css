@@ -218,6 +218,21 @@ a#scrollUp i{
 	background:#fff;
 }
 
+/* Container holding the image and the text */
+.shop-container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/* Centered text */
+.shop-container.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 
 .header-bottom {
   padding-bottom: 30px;
@@ -806,13 +821,26 @@ h2.title:before{
 }
 
 .shipping {
-  background-color: #F2F2F2;
   margin-top: 40px;
   overflow: hidden;
   padding-top: 20px;
   position: relative;
 }
 
+.shipping.text-center{
+  position: relative;
+}
+.shippng.text-center img:hover{
+  transform: scale(1.2,1.2);
+}
+.shipping.text-center .centered{
+  position: absolute;
+  z-index: 999;
+  left: 20px;
+  top:100px;
+  color: #ffffff;
+  font-size: 40px;
+}
 
 .price-range{
   margin-top:30px;
@@ -914,7 +942,7 @@ h2.title {
 }
 
 .product-overlay {
-  background:#FE980F;
+  background:rgba(0,0,0,0.6);
   top: 0;
   display: none;
   height: 0;
