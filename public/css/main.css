@@ -914,7 +914,7 @@ h2.title {
 }
 
 .product-overlay {
-  background:#FE980F;
+  background:rgba(0,0,0,0.6);
   top: 0;
   display: none;
   height: 0;
@@ -2564,4 +2564,7 @@ h2.title {
 
 .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {
   bottom: 30px;
+}
+.pull-right{
+  text-transform: uppercase;
 }
