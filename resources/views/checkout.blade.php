@@ -124,7 +124,7 @@
 					<tbody>
 						<tr>
 							<td class="cart_product">
-								<a href=""><img src="images/cart/one.png" alt=""></a>
+								<a href=""><img src="images/cart/gallery1.jpg" alt=""></a>
 							</td>
 							<td class="cart_description">
 								<h4><a href="">Colorblock Scuba</a></h4>
@@ -150,7 +150,7 @@
 
 						<tr>
 							<td class="cart_product">
-								<a href=""><img src="images/cart/two.png" alt=""></a>
+								<a href=""><img src="images/cart/iframe.jpg" alt=""></a>
 							</td>
 							<td class="cart_description">
 								<h4><a href="">Colorblock Scuba</a></h4>
@@ -175,7 +175,7 @@
 						</tr>
 						<tr>
 							<td class="cart_product">
-								<a href=""><img src="images/cart/three.png" alt=""></a>
+								<a href=""><img src="images/cart/add2.jpg" alt=""></a>
 							</td>
 							<td class="cart_description">
 								<h4><a href="">Colorblock Scuba</a></h4>
