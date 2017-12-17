@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Category extends Model
 {
-    protected $fillable[
+    protected $fillable=[
     	'category_name'
     ];
 
@@ -15,9 +15,5 @@ class Category extends Model
 		return $this->belongsTo('App\Product');
 	}
 
-	public function product()
-	{
-		return $this->belongsTo('App\Product');
-	}
 }
 

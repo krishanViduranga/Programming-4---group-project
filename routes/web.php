@@ -11,7 +11,10 @@
 |
 */
 
-Route::get('/', 'PagesController@init');
+Route::get('/', [
+    'uses'=> 'PagesController@init',
+    'as' => 'product.index'
+]);
 
 Route::get('home', 'PagesController@init');
 
@@ -28,3 +31,11 @@ Route::get('admin', 'AdminController@index');
 Auth::routes(); //Routes : login + register
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+if (isset($_GET['id'])){
+    var_dump($_GET['id']);
+}
+Route::get('/add-to-cart/{id}',[
+   'uses'=> 'ProductController@getAddToCart',
+    'as' => 'product.addToCart'
+]);

@@ -6,13 +6,14 @@ use Illuminate\Database\Eloquent\Model;
 
 class Brand extends Model
 {
-	protected $fillable[
+	protected $fillable=[
 		'brand_name'
 	];
-}
+
 
 
 public function product()
 {
 	return $this->belongsTo('App\Product');
+}
 }
