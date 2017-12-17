@@ -178,7 +178,7 @@
 											<div class="overlay-content">
 												<h2>500LKR</h2>
 												<p>Easy Polo Black Edition</p>
-												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+												<a href="{{route( 'product.addToCart',['id'=>2]) }}" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 												<iframe name="iframe1" width="230" height="175" src="http://www.tracepartsonline.net/global/viewer.aspx?xmp=-1-59-a6-01-8.xmp&previewCad=a6-01-8&displaymode=small&activatecamera=false&displayviewicons=false&displaymovementicons=false" frameborder="1" allowfullscreen></iframe>
 												<a class="fadebutton" href="http://www.tracepartsonline.net/global/viewer.aspx?xmp=-1-59-a6-01-8.xmp&previewCad=a6-01-8&displaymode=small&activatecamera=false&displayviewicons=false&displaymovementicons=false" target="iframe1" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>View</a>
 											</div>
@@ -205,7 +205,7 @@
 										<div class="overlay-content">
 											<h2>40800LKR</h2>
 											<p>Easy Polo Black Edition</p>
-											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="{{route( 'product.addToCart',['id'=>1]) }}" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
 								</div>
