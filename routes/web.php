@@ -22,7 +22,10 @@ Route::get('404', 'PagesController@notFound');
 
 Route::get('contact', 'PagesController@contact');
 
-Route::get('cart', 'PagesController@cart');
+Route::get('/shopping-cart', [
+    'uses'=>'ProductController@getCart',
+    'as' =>'product.shoppingCart'
+]);
 
 Route::get('checkout', 'PagesController@checkout');
 
@@ -32,9 +35,6 @@ Auth::routes(); //Routes : login + register
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-if (isset($_GET['id'])){
-    var_dump($_GET['id']);
-}
 Route::get('/add-to-cart/{id}',[
    'uses'=> 'ProductController@getAddToCart',
     'as' => 'product.addToCart'

@@ -34,7 +34,12 @@
 									<li><a href="#"><i class="fa fa-user"></i>{{{ Auth::user()->name }}}</a></li>
 									<li><a href="#"><i class="fa fa-star"></i> Wishlist</a></li>
 									<li><a href="{{ url('/checkout') }}"><i class="fa fa-crosshairs"></i> Checkout</a></li>
-									<li><a href="{{ url('cart') }}"><i class="fa fa-shopping-cart"></i> Cart</a></li>
+									<li>
+										<a href="{{ route('product.shoppingCart') }}">
+											<i class="fa fa-shopping-cart"></i>
+											<span class="badge">{{ Session::has('cart')? Session::get('cart')->totalQty:'' }}</span>
+											Cart</a>
+									</li>
 									<li><a href="{{ route('logout') }}" onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();"><i class="fa fa-sign-out"></i> Signout</a></li>
                                     <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
