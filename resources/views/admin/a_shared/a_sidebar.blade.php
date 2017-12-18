@@ -13,24 +13,19 @@
 											<li id="menu-academico-boletim" ><a href="sunglasses.html">Sunglasses</a></li>
 										  </ul>
 										</li>
-										 <li id="menu-academico" ><a href="sunglasses.html"><i class="fa fa-file-text-o"></i> <span>Sunglasses</span></a></li>
-									<li><a href="sweater.html"><i class="lnr lnr-pencil"></i> <span>Sweater</span></a></li>
-									<li id="menu-academico" ><a href="catalog.html"><i class="fa fa-file-text-o"></i> <span>Catalog</span></a></li>
-									<li id="menu-academico" ><a href="shoes.html"><i class="lnr lnr-book"></i> <span>Shoes</span></a></li>
-									 <li><a href="bags.html"><i class="lnr lnr-envelope"></i> <span>Bags</span></a></li>
-									<li><a href="products.html"><i class="lnr lnr-chart-bars"></i> <span>Watches</span></a></li>
-							        <li id="menu-academico" ><a href="#"><i class="lnr lnr-layers"></i> <span>Tabs & Calender</span> <span class="fa fa-angle-right" style="float: right"></span></a>
+									<li id="menu-academico" ><a href="#"><i class="fa fa-file-text-o"></i> <span>Add product</span></a></li>
+									<li><a href="#"><i class="lnr lnr-pencil"></i> <span>Edit product</span></a></li>
+									<li id="menu-academico" ><a href="#"><i class="fa fa-file-text-o"></i> <span>Statistics</span></a></li>
+									<li id="menu-academico" ><a href="#"><i class="lnr lnr-book"></i> <span>Users</span></a></li>
+							        <li id="menu-academico" ><a href="#"><i class="lnr lnr-layers"></i> <span>Event Calender</span> <span class="fa fa-angle-right" style="float: right"></span></a>
 										 <ul id="menu-academico-sub" >
 											<li id="menu-academico-avaliacoes" ><a href="tabs.html">Tabs</a></li>
 											<li id="menu-academico-boletim" ><a href="calender.html">Calender</a></li>
 
 										  </ul>
 									 </li>
-									<li><a href="#"><i class="lnr lnr-chart-bars"></i> <span>Forms</span> <span class="fa fa-angle-right" style="float: right"></span></a>
-									  <ul>
-										<li><a href="input.html"> Input</a></li>
-										<li><a href="validation.html">Validation</a></li>
-									</ul>
+									<li><a href="#"><i class="fa fa-sign-out"></i> <span>Logout</span></a>
+									  	
 									</li>
 								  </ul>
 								</div>

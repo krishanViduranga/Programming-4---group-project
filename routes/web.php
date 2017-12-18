@@ -23,9 +23,7 @@ Route::get('cart', 'PagesController@cart');
 
 Route::get('checkout', 'PagesController@checkout');
 
-Route::get('admin', function(){
-	return view('admin.a_auth.login');
-});
+Route::get('admin', 'AdminController@index');
 
 Auth::routes(); //Routes : login + register
 

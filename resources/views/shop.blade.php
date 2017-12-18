@@ -19,11 +19,11 @@
 								<div id="sportswear" class="panel-collapse collapse">
 									<div class="panel-body">
 										<ul>
-											<li><a href="#">Nike </a></li>
+											<!-- <li><a href="#"></a></li>
 											<li><a href="#">Under Armour </a></li>
 											<li><a href="#">Adidas </a></li>
 											<li><a href="#">Puma</a></li>
-											<li><a href="#">ASICS </a></li>
+											<li><a href="#">ASICS </a></li> -->
 										</ul>
 									</div>
 								</div>
@@ -40,7 +40,7 @@
 								<div id="mens" class="panel-collapse collapse">
 									<div class="panel-body">
 										<ul>
-											<li><a href="#">Fendi</a></li>
+											<!-- <li><a href="#">Fendi</a></li>
 											<li><a href="#">Guess</a></li>
 											<li><a href="#">Valentino</a></li>
 											<li><a href="#">Dior</a></li>
@@ -49,7 +49,7 @@
 											<li><a href="#">Prada</a></li>
 											<li><a href="#">Dolce and Gabbana</a></li>
 											<li><a href="#">Chanel</a></li>
-											<li><a href="#">Gucci</a></li>
+											<li><a href="#">Gucci</a></li> -->
 										</ul>
 									</div>
 								</div>
@@ -66,13 +66,13 @@
 								</div>
 								<div id="womens" class="panel-collapse collapse">
 									<div class="panel-body">
-										<ul>
+										<!-- <ul>
 											<li><a href="#">Fendi</a></li>
 											<li><a href="#">Guess</a></li>
 											<li><a href="#">Valentino</a></li>
 											<li><a href="#">Dior</a></li>
 											<li><a href="#">Versace</a></li>
-										</ul>
+										</ul> -->
 									</div>
 								</div>
 							</div>
@@ -117,13 +117,13 @@
 							<h2>Brands</h2>
 							<div class="brands-name">
 								<ul class="nav nav-pills nav-stacked">
-									<li><a href="#"> <span class="pull-right">(50)</span>Acne</a></li>
-									<li><a href="#"> <span class="pull-right">(56)</span>Grüne Erde</a></li>
-									<li><a href="#"> <span class="pull-right">(27)</span>Albiro</a></li>
-									<li><a href="#"> <span class="pull-right">(32)</span>Ronhill</a></li>
-									<li><a href="#"> <span class="pull-right">(5)</span>Oddmolly</a></li>
-									<li><a href="#"> <span class="pull-right">(9)</span>Boudestijn</a></li>
-									<li><a href="#"> <span class="pull-right">(4)</span>Rösch creative culture</a></li>
+									<li><a href="#"> <span class="pull-right">(50)</span>Anjun</a></li>
+									<li><a href="#"> <span class="pull-right">(56)</span>Kia</a></li>
+									<li><a href="#"> <span class="pull-right">(27)</span>Hyundai</a></li>
+									<li><a href="#"> <span class="pull-right">(32)</span>Kcw</a></li>
+									<li><a href="#"> <span class="pull-right">(5)</span>sangsin</a></li>
+									<li><a href="#"> <span class="pull-right">(9)</span>Bosch</a></li>
+									<li><a href="#"> <span class="pull-right">(4)</span>Infac</a></li>
 								</ul>
 							</div>
 						</div><!--/brands_products-->
@@ -137,8 +137,16 @@
 						</div><!--/price-range-->
 						
 						<div class="shipping text-center"><!--shipping-->
-							<img src="images/home/shipping.jpg" alt="" />
+							<img src="images/home/img-banner7.jpg" alt="" />
+						    <div class="centered">Custom Wheels</div>
 						</div><!--/shipping-->
+
+						<div class="shipping text-center"><!--shipping-->
+							<img src="images/home/img-banner8.jpg" alt="" />
+						    <div class="centered">Floor Mats</div>
+						</div><!--/shipping-->
+
+						
 					
 					</div>
 				</div>
@@ -162,13 +170,13 @@
 								<div class="single-products">
 										<div class="productinfo text-center">
 											<img src="images/items/itm1.jpg" alt="" />
-											<h2>$56</h2>
+											<h2>23450LKR</h2>
 											<p>Easy Polo Black Edition</p>
 											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 										<div class="product-overlay">
 											<div class="overlay-content">
-												<h2>$56</h2>
+												<h2>500LKR</h2>
 												<p>Easy Polo Black Edition</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 												<iframe name="iframe1" width="230" height="175" src="http://www.tracepartsonline.net/global/viewer.aspx?xmp=-1-59-a6-01-8.xmp&previewCad=a6-01-8&displaymode=small&activatecamera=false&displayviewicons=false&displaymovementicons=false" frameborder="1" allowfullscreen></iframe>
@@ -189,14 +197,14 @@
 								<div class="single-products">
 									<div class="productinfo text-center">
 										<img src="images/items/itm2.jpg" alt="" />
-										<h2>$56</h2>
-										<p>Easy Polo Black Edition</p>
+										<h2>500LKR</h2>
+										<p>needle roller</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
-											<h2>$56</h2>
-											<p>Easy Polo Black Edition</p>											
+											<h2>40800LKR</h2>
+											<p>Easy Polo Black Edition</p>
 											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
@@ -214,13 +222,13 @@
 								<div class="single-products">
 									<div class="productinfo text-center">
 										<img src="images/items/itm3.jpg" alt="" />
-										<h2>$56</h2>
+										<h2>350LKR</h2>
 										<p>Easy Polo Black Edition</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
-											<h2>$56</h2>
+											<h2>48710LKR</h2>
 											<p>Easy Polo Black Edition</p>
 											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
@@ -239,14 +247,14 @@
 								<div class="single-products">
 									<div class="productinfo text-center">
 										<img src="images/items/itm4.jpg" alt="" />
-										<h2>$56</h2>
+										<h2>39860LKR</h2>
 										<p>Easy Polo Black Edition</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
-											<h2>$56</h2>
-											<p>Easy Polo Black Edition</p>
+											<h2>440LKR</h2>
+											<p>FAN BELT</p>
 											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
@@ -265,17 +273,15 @@
 								<div class="single-products">
 									<div class="productinfo text-center">
 										<img src="images/items/itm5.jpg" alt="" />
-										<h2>$56</h2>
+										<h2>60125LKR</h2>
 										<p>Easy Polo Black Edition</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
-											<h2>$56</h2>
-											<p>Easy Polo Black Edition</p>											
-											<a href="#"><i class="fa fa-shopping-cart"></i>Add to cart</a>
-											<iframe name="iframe5" width="230" height="175" src="http://www.tracepartsonline.net/global/viewer.aspx?xmp=-1-59-inafag_1004_b4f3gp9l23gf4yg4ksfbwt28z.xmp&previewCad=inafag_1004_b4f3gp9l23gf4yg4ksfbwt28z&displaymode=small&activatecamera=false&displayviewicons=false&displaymovementicons=false" frameborder="1" allowfullscreen></iframe>
-											<a class="fadebutton" href="http://www.tracepartsonline.net/global/viewer.aspx?xmp=-1-59-inafag_1004_b4f3gp9l23gf4yg4ksfbwt28z.xmp&previewCad=inafag_1004_b4f3gp9l23gf4yg4ksfbwt28z&displaymode=small&activatecamera=false&displayviewicons=false&displaymovementicons=false" target="iframe1" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>View</a>											
+											<h2>45910LKR</h2>
+											<p>Easy Polo Black Edition</p>
+											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
 									<img src="images/home/sale.png" class="new" alt="" />
@@ -293,17 +299,15 @@
 								<div class="single-products">
 									<div class="productinfo text-center">
 										<img src="images/items/itm6.jpg" alt="" />
-										<h2>$56</h2>
+										<h2>50000LKR</h2>
 										<p>Easy Polo Black Edition</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
-											<h2>$56</h2>
+											<h2>45000LKR</h2>
 											<p>Easy Polo Black Edition</p>
 											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
-											<iframe width="230" height="175" src="#" ></iframe>
-											<a class="fadebutton" target="iframe1" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>View</a>
 										</div>
 									</div>
 								</div>
@@ -333,7 +337,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery1.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>68300LKR</h2>
 												<p>BMW E92 335i N54 3.0L Big Brake</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -346,7 +350,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery2.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>51000LKR</h2>
 												<p>ECCO ENSWOM SUCAAL TATION</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -359,7 +363,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery3.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>45000LKR</h2>
 												<p>Angel Eye Headlight BMW 3er Limo Typ E46</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -372,7 +376,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery4.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>68000LKR</h2>
 												<p>SP NGDL H4</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -388,7 +392,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery4.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>67000LKR</h2>
 												<p>SP NGDL H4</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -401,7 +405,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery3.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>50000LKR</h2>
 												<p>ECCO ENSWOM SUCAAL TATION</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -414,7 +418,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery2.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>45000LKR</h2>
 												<p>ECCO ENSWOM SUCAAL TATION</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -427,7 +431,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery1.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>40500LKR</h2>
 												<p>BMW E92 335i N54 3.0L Big Brake</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -443,7 +447,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery3.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>52250LKR</h2>
 												<p>Easy Polo Black Edition</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -456,7 +460,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery4.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>49000LKR</h2>
 												<p>SP NGDL H4</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -469,7 +473,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery1.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>56120LKR</h2>
 												<p>BMW E92 335i N54 3.0L Big Brake</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -482,7 +486,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery2.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>44979LKR</h2>
 												<p>ECCO ENSWOM SUCAAL TATION</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -498,7 +502,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery1.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>70000LKR</h2>
 												<p>Easy Polo Black Edition</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -511,7 +515,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery2.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>55000LKR</h2>
 												<p>ECCO ENSWOM SUCAAL TATION</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -524,7 +528,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery3.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>56800LKR</h2>
 												<p>Easy Polo Black Edition</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -537,7 +541,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery4.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>39000LKR</h2>
 												<p>Easy Polo Black Edition</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -553,7 +557,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery2.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>555000LKR</h2>
 												<p>ECCO ENSWOM SUCAAL TATION</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -566,7 +570,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery4.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>60700LKR</h2>
 												<p>Easy Polo Black Edition</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -579,7 +583,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery3.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>66090LKR</h2>
 												<p>Easy Polo Black Edition</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -592,7 +596,7 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery1.jpg" alt="" />
-												<h2>$56</h2>
+												<h2>56000LKR</h2>
 												<p>Easy Polo Black Edition</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
@@ -615,8 +619,8 @@
 											<div class="single-products">
 												<div class="productinfo text-center">
 													<img src="images/home/recommend1.jpg" alt="" />
-													<h2>$56</h2>
-													<p>Easy Polo Black Edition</p>
+													<h2>47650LKR</h2>
+													<p>REPLACEMENT REPT311902 INTAKE MANIFOLD -...</p>
 													<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 												</div>
 												
@@ -628,8 +632,8 @@
 											<div class="single-products">
 												<div class="productinfo text-center">
 													<img src="images/home/recommend2.jpg" alt="" />
-													<h2>$56</h2>
-													<p>Easy Polo Black Edition</p>
+													<h2>77080LKR</h2>
+													<p>TOYOTA 4RUNNER BLACK HALO PROJECTOR...</p>
 													<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 												</div>
 												
@@ -641,8 +645,8 @@
 											<div class="single-products">
 												<div class="productinfo text-center">
 													<img src="images/home/recommend3.jpg" alt="" />
-													<h2>$56</h2>
-													<p>Easy Polo Black Edition</p>
+													<h2>39890LKR</h2>
+													<p>KOOL VUE KV430114 3000 HIGH PERFORMANCE...</p>
 													<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 												</div>
 												
@@ -656,8 +660,8 @@
 											<div class="single-products">
 												<div class="productinfo text-center">
 													<img src="images/home/recommend1.jpg" alt="" />
-													<h2>$56</h2>
-													<p>Easy Polo Black Edition</p>
+													<h2>66000LKR</h2>
+													<p>REPLACEMENT REPT311902 INTAKE MANIFOLD -...</p>
 													<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 												</div>
 												
@@ -669,8 +673,8 @@
 											<div class="single-products">
 												<div class="productinfo text-center">
 													<img src="images/home/recommend2.jpg" alt="" />
-													<h2>$56</h2>
-													<p>Easy Polo Black Edition</p>
+													<h2>71000LKR</h2>
+													<p>TOYOTA 4RUNNER BLACK HALO PROJECTOR...</p>
 													<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 												</div>
 												
@@ -682,8 +686,8 @@
 											<div class="single-products">
 												<div class="productinfo text-center">
 													<img src="images/home/recommend3.jpg" alt="" />
-													<h2>$56</h2>
-													<p>Easy Polo Black Edition</p>
+													<h2>55555LKR</h2>
+													<p>KOOL VUE KV430114 3000 HIGH PERFORMANCE...</p>
 													<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 												</div>
 												

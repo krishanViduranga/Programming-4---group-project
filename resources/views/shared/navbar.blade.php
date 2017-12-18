@@ -69,10 +69,12 @@
 						                    	<span id="search_concept">Filter by</span> <span class="caret"></span>
 						                    </button>
 						                    <ul class="dropdown-menu" role="menu">
-						                      <li><a href="#contains">Contains</a></li>
-						                      <li><a href="#its_equal">It's equal</a></li>
-						                      <li><a href="#greather_than">Greather than ></a></li>
-						                      <li><a href="#less_than">Less than < </a></li>
+						                      <li><a href="#contains">ANJUN</a></li>
+						                      <li><a href="#its_equal">KIA</a></li>
+						                      <li><a href="#greather_than">HYUNDAI</a></li>
+						                      <li><a href="#less_than">KCW</a></li>
+						                      <li><a href="#less_than">BOSCH</a></li>
+						                      <li><a href="#less_than">INFAC</a></li>
 						                      <li class="divider"></li>
 						                      <li><a href="#all">Anything</a></li>
 						                    </ul>
